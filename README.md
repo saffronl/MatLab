@@ -1,3 +1,3 @@
 # MatLab
 
-Here is a Repository for all of my MatLab code I have written.
+Repository for some of the MatLab code I have written.
