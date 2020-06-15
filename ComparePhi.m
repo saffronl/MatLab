@@ -1,6 +1,6 @@
 %Using a previously writen Function fn_GoldenRatio, calculate the number phi
 
-%Saffron Livaccari 110183257
+%Saffron
 clear
 
 a=[rand];
